@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+}
+
+.p1{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(192, 146, 235);
+    padding: 10px;
+    margin: 50px; 
+}
+.p2{
+    width: 450px;
+    height: 450px;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.p3{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(88, 146, 146);
+    padding: 10px;
+}
+.p4{
+    width: 350px;
+    height: 350px;
+    background-color: yellow;
+    padding: 10px;
+}
+
+
+.p5{
+    height: 300px;
+    width:300px;
+    background-color: rgb(225, 173, 255);
+    padding: 10px;
+
+}
+.p6{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 112, 120);
+    padding: 10px;
+}
+.p7{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(102, 202, 202);
+    padding: 30px;
+}
